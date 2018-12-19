@@ -2,7 +2,7 @@
 A fun module that logs out your favourite anime character's ASCII Art.
 
 #### List of characters that you can log
-- Goku ( Dragon Ball )
+- [Goku ( Dragon Ball )](https://github.com/rossoskull/animelog#log-goku-)
 
 You can contribute and add the characters you like!
 
