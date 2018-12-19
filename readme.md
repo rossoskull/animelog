@@ -1,12 +1,12 @@
 ## AnimeLog
-A fun module that logs out your favourite anime character's ASCII Art.
+A fun module that logs out your favourite anime-related stuff's ASCII Art.
 
-#### List of characters that you can log
+#### List of anime-related stuff that you can log-
 - [Goku ( Dragon Ball )](https://github.com/rossoskull/animelog#log-goku-)
-- [Kakashi & Obito's Mangekyou Sharingan]
-- [Yondaime Hokage]
+- [Kakashi & Obito's Mangekyou Sharingan](https://github.com/rossoskull/animelog#log-kakashi--obitos-mangekyou-sharingan-)
+- [Yondaime Hokage](https://github.com/rossoskull/animelog#log-yondaime-hokage-)
 
-You can contribute and add the characters you like!
+You can contribute and add other favourite anime characters and misc stuff!
 
 #### To install-
 ```sh
@@ -25,10 +25,11 @@ Output-
   $ kamui
 ```
 Output-  
-
+![kamui](https://user-images.githubusercontent.com/27884543/50246515-99971200-03fb-11e9-9759-83823d84b089.gif)
 
 #### Log Yondaime Hokage-
 ```sh
   $ yondaime
 ```
 Output-  
+![yondaime](https://user-images.githubusercontent.com/27884543/50246595-d6630900-03fb-11e9-864d-5ae6734541d3.gif)
