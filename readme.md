@@ -3,8 +3,8 @@ A fun module that logs out your favourite anime-related stuff's ASCII Art.
 
 #### List of anime-related stuff that you can log-
 - [Goku ( Dragon Ball )](https://github.com/rossoskull/animelog#log-goku-)
-- [Kakashi & Obito's Mangekyou Sharingan](https://github.com/rossoskull/animelog#log-kakashi--obitos-mangekyou-sharingan-)
-- [Yondaime Hokage](https://github.com/rossoskull/animelog#log-yondaime-hokage-)
+- [Kakashi & Obito's Mangekyou Sharingan ( Naruto )](https://github.com/rossoskull/animelog#log-kakashi--obitos-mangekyou-sharingan-)
+- [Yondaime Hokage ( Naruto )](https://github.com/rossoskull/animelog#log-yondaime-hokage-)
 
 You can contribute and add other favourite anime characters and misc stuff!
 
