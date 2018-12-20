@@ -8,7 +8,8 @@
     "kamehameha": "./kamehameha.js",
     "kamui": "./kamui.js",
     "yondaime": "./yondaime.js",
-    "dattebayo": "./dattebayo.js"
+    "dattebayo": "./dattebayo.js",
+    "amaterasu": "./amaterasu.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
