@@ -5,8 +5,8 @@ A fun module that logs out your favourite anime-related stuff's ASCII Art.
 - [Goku ( Dragon Ball )](https://github.com/rossoskull/animelog#log-goku-)
 - [Kakashi & Obito's Mangekyou Sharingan ( Naruto )](https://github.com/rossoskull/animelog#log-kakashi--obitos-mangekyou-sharingan-)
 - [Yondaime Hokage ( Naruto )](https://github.com/rossoskull/animelog#log-yondaime-hokage-)
-- [Naruto ( Naruto )]()
-- [Uchiha Itachi ( Naruto )]()
+- [Naruto ( Naruto )](https://github.com/rossoskull/animelog#log-naruto-)
+- [Uchiha Itachi ( Naruto )](https://github.com/rossoskull/animelog#log-uchiha-itachi-)
 
 You can contribute and add other favourite anime characters and misc stuff!
 
@@ -41,10 +41,11 @@ Output-
   $ dattebayo
 ```
 Output-  
-
+![dattebayo](https://user-images.githubusercontent.com/27884543/50557101-c73b5f80-0d07-11e9-910d-b7534bd057aa.gif)
 
 #### Log Uchiha Itachi-
 ```sh
   $ amaterasu
 ```
 Output-  
+![amaterasu](https://user-images.githubusercontent.com/27884543/50557102-c73b5f80-0d07-11e9-87df-0c4d266fbbd1.gif)
