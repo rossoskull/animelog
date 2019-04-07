@@ -1,6 +1,6 @@
 ## AnimeLog
 [![npm](https://img.shields.io/npm/v/animelog.svg)](https://www.npmjs.com/package/animelog) 
-[![npm](https://img.shields.io/npm/dm/animelog.svg)](https://www.npmjs.com/package/animelog)
+[![npm](https://img.shields.io/npm/dt/animelog.svg)](https://www.npmjs.com/package/animelog)
 [![npm](https://img.shields.io/npm/l/animelog.svg)](https://www.npmjs.com/package/animlog)  
 A fun module that logs out your favourite anime-related stuff's ASCII Art.
 
